@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3afacac5-2291-4020-a9ec-5f47ae441dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Safari.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training.html" afterDir="false" />
+    <list default="true" id="3afacac5-2291-4020-a9ec-5f47ae441dc1" name="Changes" comment="Simple training for you.">
+      <change afterPath="$PROJECT_DIR$/Newlinks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gspoon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newtestdropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcolor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Safari.html" beforeDir="false" afterPath="$PROJECT_DIR$/Safari.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +33,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rOWdpmJFoXuQAoZe5PoZpC8iZc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Newlinks.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -45,9 +53,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Newlinks.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mynewjeep.HTML/Newlinks.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Newlinks.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,11 +83,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736430691302</updated>
-      <workItem from="1736430693826" duration="8867000" />
+      <workItem from="1736430693826" duration="10224000" />
+      <workItem from="1736500952233" duration="12238000" />
+      <workItem from="1736759490137" duration="15610000" />
     </task>
+    <task id="LOCAL-00001" summary="Simple training for you.">
+      <option name="closed" value="true" />
+      <created>1736442865655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442865658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simple training for you." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple training for you." />
   </component>
 </project>
