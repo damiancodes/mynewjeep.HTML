@@ -77,7 +77,7 @@
     <title>Dropdown Example</title>
 </head>
 <body>
-<h1 style="color: darkblue; text-align: center;">Dropdown Menu Example</h1>
+<h1 style="color: darkblue; text-align: center;">Dropdown Menu</h1>
 <ul>
     <li>
         <a href="#">Pantry</a>
